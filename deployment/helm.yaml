@@ -33,6 +33,6 @@ spec:
     clusterName: demo
     serviceAccount:
       create: false
-#      name: aws-load-balancer-controller
-      name: cluster-autoscaler
+      name: aws-load-balancer-controller
+#      name: cluster-autoscaler
 
