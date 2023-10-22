@@ -30,7 +30,7 @@ spec:
     disableHooks: false
     keepHistory: false
   values:
-    clusterName: experimental
+    clusterName: demo
     serviceAccount:
       create: false
       name: aws-load-balancer-controller
